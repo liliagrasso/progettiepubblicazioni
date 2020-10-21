@@ -1,7 +1,7 @@
 # progettiepubblicazioni
 Progetti e pubblicazioni compiuti in ambito accademico.
 
-Nel corso della mia carriera universitaria ho partecipato, con il progetto di tesi in triennale, a tre progetti in totale.
+Nel corso della mia carriera universitaria ho partecipato, con il progetto di tesi in triennale, a quattro progetti in totale.
 
 1) "Teoria dei fluidi subsonici e transonici" in collaborazione con il mio relatore Giovanni Ortenzi è uno studio dell'equazione differenziale alle derivate parziali
 che descrive il moto stazionario bidimensionale di fluidi in regime transonico (nel cui campo di moto coesistono velocità sia minori sia maggiori di quella locale del suono).
@@ -12,4 +12,6 @@ per l'approssimazione delle equazioni differenziali ellittiche del secondo ordin
 
 3)"Effect of Covid-19 emergency on US financial system" analisi finanziaria su come il Covid-19 ha impattato sul mercato americano e in particolari quali sono state le strategie
 adottate dei vari intermediari finanziari. 
+
+4)"SPETTROSCOPIA ALFA" misurazione in laboratorio della spettroscopia delle particelle alfa misurando la vita media di 3 isotopi fondamentali: il Radon 222, il Polonio 214 e il Polonio 218.
 
