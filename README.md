@@ -15,9 +15,9 @@ adottate dei vari intermediari finanziari.
 
 4) **"SPETTROSCOPIA ALFA"** misurazione in laboratorio della spettroscopia delle particelle alfa misurando la vita media di 3 isotopi fondamentali: il Radon 222, il Polonio 214 e il Polonio 218.
 
-5) **"A statistical Analysis of Italian Trips"** analisi statistica, con statistiche descrittive e inferenziali dei viaggi italiani.
+5) **"A statistical Analysis of Italian Trips"** analisi statistica, con statistiche descrittive e inferenziali dei viaggi italiani. 
 
-6) **"Classification Analysis of crimes in Los Angeles Districts"** progetto di machine learning eseguito su Knime basato su problemi di multi-classificazione.
+6) **"Classification Analysis of crimes in Los Angeles Districts"** progetto di machine learning eseguito su Knime basato su problemi di multi-classificazione. 
 
-7) **"An analysis of Universities Ranking's datasets, a computer science project"** prima analisi con Python di 3 datasets dei ranking delle università. Il notebook è disponibile al seguente link* https://github.com/liliagrasso/FCSproject/blob/main/FoCS_Project_Grasso_Marnati.ipynb 
+7) **"An analysis of Universities Ranking's datasets, a computer science project"** prima analisi con Python di 3 datasets dei ranking delle università. Il notebook è disponibile al seguente link: https://github.com/liliagrasso/FCSproject/blob/main/FoCS_Project_Grasso_Marnati.ipynb 
 
