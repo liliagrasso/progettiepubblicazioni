@@ -1,7 +1,5 @@
 # progettiepubblicazioni
-Progetti e pubblicazioni compiuti in ambito accademico.
-
-Nel corso della mia carriera universitaria ho partecipato, con il progetto di tesi in triennale, a quattro progetti in totale.
+Progetti e pubblicazioni compiuti in ambito accademico:
 
 1) **"Teoria dei fluidi subsonici e transonici"** in collaborazione con il mio relatore Giovanni Ortenzi è uno studio dell'equazione differenziale alle derivate parziali
 che descrive il moto stazionario bidimensionale di fluidi in regime transonico (nel cui campo di moto coesistono velocità sia minori sia maggiori di quella locale del suono).
