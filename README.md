@@ -1,7 +1,11 @@
 # progettiepubblicazioni
+<p>
+         We’re a <a href="/about/about_team.htm">team</a> of professionals working
+         hard to provide free learning content.
+      </p>
 Progetti e pubblicazioni compiuti in ambito accademico:
 
-1) **"Teoria dei fluidi subsonici e transonici"** in collaborazione con il mio relatore Giovanni Ortenzi è uno studio dell'equazione differenziale alle derivate parziali
+1) **<a href="https://github.com/liliagrasso/progettiepubblicazioni/blob/main/Tesi_Lilia.pdf">Teoria dei fluidi subsonici e transonici</a>** in collaborazione con il mio relatore Giovanni Ortenzi è uno studio dell'equazione differenziale alle derivate parziali
 che descrive il moto stazionario bidimensionale di fluidi in regime transonico (nel cui campo di moto coesistono velocità sia minori sia maggiori di quella locale del suono).
 Ciò avviene con l'analisi dell'Esistenza e Unicità di una soluziona, della Buona Positura delle condizioni inizialie e la ricerca diSoluzioni Particolari dell’equazioni di Tricomi.
 
