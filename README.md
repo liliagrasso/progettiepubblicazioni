@@ -18,3 +18,4 @@ adottate dei vari intermediari finanziari.
 
 7) **<a href="https://github.com/liliagrasso/FCSproject/blob/main/FoCS_Project_Grasso_Marnati.ipynb ">An analysis of Universities Ranking's datasets, a computer science project</a>** prima analisi con Python di 3 datasets dei ranking delle università. Sono state effettuate operazioni di pulizia dei dati, arricchimento e integrazione.
 
+8) **<a href="https://github.com/liliagrasso/progettiepubblicazioni/blob/main/An_analysis_of_Gentrification_phenomena_in_Los_Angeles%20(5).pdf">An analysis of Gentrification phenomena in Los Angeles, a data driven approach</a>** Approccio data driven per investigare la possibile correlazione tra quartieri gentrificati e i crimini commessi in quel quartiere, eseguito con l'ausilio di Kafka per acquisire i dati di chiamate alla polizia, da utilizzare per confrontarli con dei dati storici forniti dalla Los Angeles Police Department.
